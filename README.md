@@ -66,3 +66,82 @@ recognized activities under GHG mechanisms due to the reduction of carbon emissi
 to the baseline scenarios viz. displacement of grid electricity with the export power produced &
 supplied from the co-generation unit. Thus, NSL Sugars project activity helps to contribute to
 emission reductions as well as SDG targets creating a sustainable pathway. 
+__________
+ISSUANCE DATE: 30/09/2025
+
+QTY: 660557
+
+MP-01: 01/01/2013-31/12/2024
+______________
+Serial Number: 0001-000001-042472-UCR-CoU-IN-472-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 42472
+_____________
+Serial Number: 0001-042473-190109-UCR-CoU-IN-472-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 147637
+___________
+Serial Number: 0001-190110-332811-UCR-CoU-IN-472-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 142702
+_________
+Serial Number: 0001-332812-407966-UCR-CoU-IN-472-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 75155
+_____________
+Serial Number: 0001-407967-413961-UCR-CoU-IN-472-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 5995
+___________
+Serial Number:0001-413962-454811-UCR-CoU-IN-472-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 40850
+___________
+Serial Number: 0001-454812-480457-UCR-CoU-IN-472-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 25646
+___________
+Serial Number: 0001-480458-503776-UCR-CoU-IN-472-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 23319
+__________
+Serial Number: 0001-503777-535336-UCR-CoU-IN-472-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 31560
+____________
+Serial Number: 0001-535337-584189-UCR-CoU-IN-472-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 48853
+______________
+Serial Number: 0001-584190-617061-UCR-CoU-IN-472-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 32872
+____________
+Serial Number: 0001-617062-660557-UCR-CoU-IN-472-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 43496
+____________
